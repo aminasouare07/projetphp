@@ -1,0 +1,22 @@
+table{
+    width: 75%;
+    height: 320px;
+    padding-left: 70px ;
+    border-collapse: collapse
+}
+th{
+    border: solid 1px rgb(189, 184, 184);
+    text-align: left;
+    
+}
+td{
+    border: solid 1px rgb(189, 184, 184) ;
+    text-align: left;
+
+}
+/* tr:nth-child(even) {
+    background-color:rgb(189, 184, 184);
+} */
+.grey{
+    background-color: gray;
+}
